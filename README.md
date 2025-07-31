@@ -34,15 +34,13 @@ This is a simple machine learning project made by a student to predict house pri
 
 > If you prefer running as a `.py` file instead of notebook:
 
-1. Convert notebook to Python:
+1. Or run the app.py file given
+2. Make sure all libraries were installed mentioned in requirements.txt
+3. Or convert notebook to Python:
    Run this line in your Terminal
    jupyter nbconvert --to script "House Price Prediction.ipynb"
-   
-
-2. It will generate a file like `House Price Prediction.py`.  
+4. It will generate a file like `House Price Prediction.py`.  
    You can also rename it to `app.py`.
-3. Or run the .py file given
-4. make sure all libraries were installed mentioned in requirements.txt
 5. Then run using:
    ```bash
    python app.py
