@@ -41,29 +41,17 @@ This is a simple machine learning project made by a student to predict house pri
 
 2. It will generate a file like `House Price Prediction.py`.  
    You can also rename it to `app.py`.
-
-3. Then run using:
+3. Or run the .py file given
+4. make sure all libraries were installed mentioned in requirements.txt
+5. Then run using:
    ```bash
    python app.py
    ```
-
  Note: Comment out any `plt.show()` if too many graphs open, or run cell-by-cell.
 
----
 
-###  Method 3: Run Online via Streamlit Community Cloud
-
-Even though this is a notebook-based ML project, you can still run it online using Streamlit Cloud:
-
-1. Go to: [https://streamlit.io/cloud](https://streamlit.io/cloud)
-2. Sign in with GitHub
-3. Create a new app:
-   - Repo: House Price Predictor
-   - Branch: main
-   - File: `House Price Prediction.ipynb`
-4. Click "Deploy"
-
-Note: This won't create a Streamlit UI — just an online way to execute or share your project.
+## Future Plan 
+ Note: A Streamlit-based interactive web app version is under development and will be added soon!
 
 
 ##  Made With
