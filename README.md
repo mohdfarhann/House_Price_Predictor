@@ -27,7 +27,7 @@ This is a simple machine learning project made by a student to predict house pri
 
 4. Run all cells and see the results.
 
-5. you will see output of custom input and by giving inputs you will see output of you inputs.
+5. you will see output of custom input and, by giving inputs you will see output of your inputs.
 ---
 
 ###  Method 2: Run as Python Script (app.py)
